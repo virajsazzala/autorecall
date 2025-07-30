@@ -1,0 +1,14 @@
+Autorecall
+==========
+
+A command-line tool for quickly making Anki flashcards. You can create question-and-answer cards from text prompts, audio files, or readable documents—all with a command.
+
+Note
+----
+- currently under development
+
+Todo
+----
+- option to edit
+- input using audio
+- input using docs
